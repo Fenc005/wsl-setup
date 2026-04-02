@@ -22,9 +22,15 @@
 
 	* Standard Distro ist Ubuntu
 
-6. CMD/Powershell schließen und dann ohne Admin rechte ausführen (sonst geht copy paste anscheinend nicht)
+6. Installationsassistent folgen
 
-7. `wsl` in CMD eingeben, dann sollte sich WSL öffnen
+   * Username einrichten
+
+   * Passwort einrichten
+
+7. CMD/Powershell schließen und dann ohne Admin rechte ausführen (sonst geht copy paste anscheinend nicht)
+
+8. `wsl` in CMD eingeben, dann sollte sich WSL öffnen
 </details>
 
 <details>
