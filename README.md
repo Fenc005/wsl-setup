@@ -24,9 +24,9 @@
 
 6. Installationsassistent folgen
 
-   * Username einrichten
+   * Username eingeben (WSL Nutzer)
 
-   * Passwort einrichten
+   * Passwort eingeben (WSL Passwort)
 
 7. CMD/Powershell schließen und dann ohne Admin rechte ausführen (sonst geht copy paste anscheinend nicht)
 
