@@ -91,7 +91,7 @@
 
 2. User Settings Json
 
-	* `> Preferences: Open User Settings (JSON)`
+	* Bei der Suchleiste oben in der Mitte `> Preferences: Open User Settings (JSON)` eingeben
 
 	* Das dann dort einfügen
 
