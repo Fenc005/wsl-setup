@@ -1,3 +1,6 @@
+# Foraussetzung
+virtualisierung soll im BIOS aktiviert sein
+
 # WSL SETUP 
 <details>
 <summary> <h2> WSL installieren </h2> </summary>
