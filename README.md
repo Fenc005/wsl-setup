@@ -56,7 +56,7 @@ Virtualisierung soll im BIOS aktiviert sein
 </details>
 
 <details>
-<summary> <h2> Gitlab Setup </h2> </summary>
+<summary> <h2> Gitlab Setup innerhalb von WSL </h2> </summary>
 
 1. Username und E-Mail einrichten
 
