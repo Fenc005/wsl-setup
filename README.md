@@ -138,3 +138,6 @@ Virtualisierung soll im BIOS aktiviert sein
 		}
 		```
 </details>
+
+3. cmd öffnen und WSL starten ´´´wsl´´´
+4. dann innerhalb von WSL ´´´code . ´´´ eingeben
