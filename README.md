@@ -137,7 +137,7 @@ Virtualisierung soll im BIOS aktiviert sein
 		"C_Cpp.default.cStandard": "c17",
 		}
 		```
-3. CMD öffnen und WSL starten ´´´wsl´´´
+3. CMD öffnen und WSL starten ```wsl```
 
-4. Dann innerhalb von WSL ´´´code . ´´´ eingeben
+4. Dann innerhalb von WSL ```code . ``` eingeben
 </details>
