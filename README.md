@@ -19,6 +19,8 @@ Virtualisierung soll im BIOS aktiviert sein
 
 	* Plattform für virtuelle Computer
 
+	* Danach Computer neu starten
+
 5. CMD/Powershell als Administrator ausführen
 
 	* `wsl --install` in CMD/Powershell ausführen
