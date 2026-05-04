@@ -108,7 +108,7 @@ Virtualisierung soll im BIOS aktiviert sein
 
 		```Json
 		{
-		"workbench.colorTheme": "Dark 2026",
+		"workbench.colorTheme": "Visual Studio 2017 Dark - C++",
 		"workbench.editor.useModal": "off",
 		"workbench.list.openMode": "singleClick",
 		"workbench.startupEditor": "none",
