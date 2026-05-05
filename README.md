@@ -1,4 +1,5 @@
 # WSL SETUP 
+## GUIDE WORT FÜR WORT FOLGEN!!!!!
 ## Voraussetzungen
 * Lesekenntnisse
 * GUIDE WORT FÜR WORT FOLGEN!!!!!! (Especially, wenn name == Elias)
