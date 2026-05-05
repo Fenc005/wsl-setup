@@ -1,5 +1,7 @@
 # WSL SETUP 
-## Foraussetzungen
+## Voraussetzungen
+* Lesekenntnisse
+* GUIDE WORT FÜR WORT FOLGEN!!!!!! (Especially, wenn name == Elias)
 * Virtualisierung soll im BIOS aktiviert sein
 * VS soll installiert sein, und sollte nicht zu viele vorherige modifizierte Einstellungen haben, da es zu Fehler führen könnte
 
